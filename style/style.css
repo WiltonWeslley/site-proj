@@ -176,3 +176,11 @@ body{
     color: white;
 
 }
+
+.itens{
+    margin: 10px;
+}
+
+@media (max-width: 300px){
+    ul{display: contents;}
+}
