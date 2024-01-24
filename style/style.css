@@ -99,6 +99,8 @@ body{
     color: white;
     background-color: #33ce0d;
     border-radius: 10px;
+    width: 270px;
+    margin: 70px;
 }
 
 .botao{
@@ -106,7 +108,8 @@ body{
     background-color: #3b8827;
     border-radius: 10px;
     font-size: 35px;
-    width: 450px;
+    width: 300px;
+    margin: 55px;
 }
 
 .compras{
@@ -137,4 +140,9 @@ body{
     list-style-type: none;
     align-items: center;
     padding: 30px;
+
+}
+
+.botao1{
+    text-align: center;
 }
